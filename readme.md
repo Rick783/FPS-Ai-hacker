@@ -10,5 +10,5 @@ git clone https://github.com/Rick783/opencv-ai.git
 ```
 - 安裝依賴庫
 ```bash
-pip install requirements.txt
+pip install cv2 mediapipe
 ```
